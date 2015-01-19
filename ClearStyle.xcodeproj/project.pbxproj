@@ -14,6 +14,7 @@
 		0C6A47FF1A6C616F00B925D6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C6A47FD1A6C616F00B925D6 /* LaunchScreen.xib */; };
 		0C6A480B1A6C616F00B925D6 /* ClearStyleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6A480A1A6C616F00B925D6 /* ClearStyleTests.swift */; };
 		0C6A48151A6C88D900B925D6 /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6A48141A6C88D900B925D6 /* ToDoItem.swift */; };
+		0C6A48171A6C99A700B925D6 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6A48161A6C99A600B925D6 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		0C6A48091A6C616F00B925D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0C6A480A1A6C616F00B925D6 /* ClearStyleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClearStyleTests.swift; sourceTree = "<group>"; };
 		0C6A48141A6C88D900B925D6 /* ToDoItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
+		0C6A48161A6C99A600B925D6 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				0C6A47F41A6C616F00B925D6 /* AppDelegate.swift */,
 				0C6A47F61A6C616F00B925D6 /* ViewController.swift */,
 				0C6A48141A6C88D900B925D6 /* ToDoItem.swift */,
+				0C6A48161A6C99A600B925D6 /* TableViewCell.swift */,
 				0C6A47F81A6C616F00B925D6 /* Main.storyboard */,
 				0C6A47FB1A6C616F00B925D6 /* Images.xcassets */,
 				0C6A47FD1A6C616F00B925D6 /* LaunchScreen.xib */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C6A47F71A6C616F00B925D6 /* ViewController.swift in Sources */,
+				0C6A48171A6C99A700B925D6 /* TableViewCell.swift in Sources */,
 				0C6A47F51A6C616F00B925D6 /* AppDelegate.swift in Sources */,
 				0C6A48151A6C88D900B925D6 /* ToDoItem.swift in Sources */,
 			);
